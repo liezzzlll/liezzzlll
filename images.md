@@ -9,7 +9,8 @@ Welcome to my collection of doodles, paintings, drawings, etc.  A lot of these a
 
 ## the knight beneath the armor
 <div id="the-knight-beneath-the-armor">
-    <img src="{{ '/assets/img/knightbeneaththearmor.jpg' | prepend: site.baseurl }}" alt="the knight beneath the armor"></div>
+    <img src="/assets/img/knightbeneaththearmor.jpg" alt="the knight beneath the armor">
+</div>
 #madebyme
 
 ## b u 

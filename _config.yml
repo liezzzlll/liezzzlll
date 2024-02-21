@@ -15,6 +15,8 @@ title: Life of Liezzzlll
 # Your name to show in the footer
 author: Liezzzlll
 
+#the subpath of your site, e.g. /blog
+baseurl: "/liezzzlll"
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################

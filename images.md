@@ -31,6 +31,12 @@ Welcome to my collection of doodles, paintings, drawings, etc.  A lot of these a
 </div>
 #madebyme
 
+## immutable traits
+<div id="immutable">
+    <img src="{{ '/assets/img/immutabletraits.jpg' | prepend: site.baseurl }}" alt="immutable traits">
+</div>
+#madebyme a lil doodle of a journal prompt asking "What are your immutable traits?" I made a knowledge graph instead of writing it out.  Turned out pretty cool! teehee
+
 ## achilles
 <div id="achilles">
     <img src="{{ '/assets/img/achilles.jpg' | prepend: site.baseurl }}" alt="Achilles">
@@ -42,6 +48,12 @@ Welcome to my collection of doodles, paintings, drawings, etc.  A lot of these a
     <img src="{{ '/assets/img/yinyang.jpg' | prepend: site.baseurl }}" alt="yin yang">
 </div>
 #madebyme Then I got it tattooed! woohoo!
+
+## tiedye watercolor
+<div id="tiedye">
+    <img src="{{ '/assets/img/psychedelic.watercolor.jpg' | prepend: site.baseurl }}" alt="tiedye watercolor">
+</div>
+#madebyme during a trip... hehehe I wanted to depict what I was seeing when I closed my eyes.  The level of synesthesia I get is insane... patterns like these throb with the beat of the music. 
 
 ## b u 
 <div id="beyou">

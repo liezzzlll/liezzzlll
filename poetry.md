@@ -8,6 +8,17 @@ Welcome to my collection of poems presented in reverse chronological order from 
  
 A glimpse of my vulnerability through words.
 
+If I have original art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
+
+## the duality of (wo)man
+There's a strange pain in the saying that 2 things can be true\
+To be so in love with you, _& accept that there's no longer the 'us' that I knew_ \
+To long for what could have been, _while healing the wounds deep within_\
+To hope that you grow into your best self, _knowing that future us will become someone else_\
+Someone we both won't know, _yet feeling a weird sense of being at-home_\
+Because in the end, despite our end\
+_we were a beautiful thing, after all_
+
 ## the avoidant & the anxious
 People can only love you as deeply as they love themselves\
 I started to feel your distance the more I loved myself
@@ -37,8 +48,6 @@ You know, right...? That even shiny things fade?\
 Pls bby girl, you're not _self-made_
 
 ## the knight beneath the armor
-- _Here's [something silly I doodled](/images/#the-knight-beneath-the-armor) that goes with this._ 
-
 In the shadow of ego's fading light,\
 You chose a path, not of freedom, but of night.
 
@@ -85,6 +94,10 @@ I hope that path bring peace in your mind and heart\
 You were the love of my life _for a period in time_ \
 You'll always be that, even if you're no longer mine\
 You'll always be that in the mosaic of my life
+
+<div id="the-knight-beneath-the-armor">
+    <img src="{{ '/assets/img/knightbeneaththearmor.jpg' | prepend: site.baseurl }}" alt="the knight beneath the armor">
+</div>
 
 ## hurt&feel.hurt&heal
 My hurt and pain whispers to me,\
@@ -148,7 +161,6 @@ Aching.\
 I'm still in disbelief. 
 
 ## orion stopped dancing
-- _Here's [something silly I doodled](/images/#orion-stopped-dancing) that goes with this._
 Some days I wish I lived in the universe where you chose me.\
 When faced with a tough choice, I always asked,\
 "_Would you regret not doing it when you're 40?_"\
@@ -169,6 +181,10 @@ Remember when you asked if you should _go for it_ and I said,\
 "_Would you regret not doing it when you're 40?_"\
 Sucks to know you **_wouldn't_** regret losing me...
 
+<div id="orion-stopped-dancing">
+    <img src="{{ '/assets/img/orionstoppeddancing.jpg' | prepend: site.baseurl }}" alt="orion stopped dancing">
+</div>
+
 ## chasing purpose (Orion: reprise)
 Just like turning every noise into music\
 and any moment into art,\
@@ -183,9 +199,9 @@ What does that say about what **matters the most** in this world to you?
 
 ## (the original) orion
 <div id="orion">
-    <img src="/assets/img/orionbytaylor.jpg" alt="orion by taylor">
+    <img src="{{ '/assets/img/orionbytaylor.jpg' | prepend: site.baseurl }}" alt="orion by taylor">
 </div>
-Someone, <i> at some point in this silly lil life of mine </i>, cared enough about me to write me this cute poem. He left me tho and I was shattered, as you can see lolz. 
+Someone, <i> at some point in this silly lil life of mine, </i> cared enough about me to write me this cute poem. He left me tho and I was shattered, as you can see lolz. 
 
 ## i still love an unreal version of you
 I'm still in love with the man\
@@ -222,6 +238,34 @@ when I can listen to Strobe without my heart hurting,\
 but right now it still aches.
 
 >December 2023: I listened to Strobe and my heart no longer ached.
+
+## time's gentle art
+In realms where mere survival isn't all,\
+Where ideas and art defiantly stand tall,\
+We craft a bond transcending time's decay,\
+A dance, a dream, that won't be swept away.
+
+So close, yet distant as the furthest star,\
+In nothingness we find out who we are.\
+Exchange of whispers, touches, glances, words,\
+Interactions weave what eyes and hearts have heard. 
+
+Each meeting an exchange, a dance of power,\
+An energy that blooms in every hour,\
+We find ourselves in timeless interplay,\
+A sacred dance that lights our Earthly way.
+
+By your side, what honr does life lend,\
+A journey's shared, a song that knows no end.
+
+In life, we own no thing, all borrowed grace,\
+Yet what we make together fills all space. 
+
+Through cosmos we connect, our spirits dance,\
+I see you in the stars, a glimmering glance.
+
+Remember bb, as time and distance blend,\
+The art we make is ours until the end.
 
 ## canvas of our memories
 On the deck of our floating home we rest,\
@@ -327,6 +371,8 @@ I’ll never forget the moment Orion gave us a second chance
 I’m hoping you’ve said it too\
 ~XXXXXX~, I am so in love with you
 
+>I couldn't quite tell him yet, I didn't want to tell him I loved him when I did. So I wrote this poem and I read it to him lololol.
+
 ## runnin’ in the rain
 We ran in the rain\
 Hand in hand\
@@ -345,10 +391,14 @@ I hold on to this feeling\
 Because no matter how temporary\
 At least I know it’s real
 
+<div id="temporary-but-real">
+    <img src="{{ '/assets/img/temporarybutreal.jpg' | prepend: site.baseurl }}" alt="temporary but real">
+</div>
+
 ## mosaic
 The person you met and admired\
 And loved spending time with\
-Is the product of mistakes and\ 
+Is the product of mistakes and\
 Lessons learned in the past
 
 It breaks my heart that you adored my time and presence\

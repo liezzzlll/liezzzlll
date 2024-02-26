@@ -24,7 +24,10 @@ baseurl: "/liezzzlll"
 navbar-links:
   About Me: "aboutme"
   Poetry: "poetry"
-  Images: "images"
+  Images:
+    - Drawings: "drawings"
+    - Paintings: "paintings" 
+    - Digital Art: "digital"
   Videos: "videos"
   Songs: "songs"
 

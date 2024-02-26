@@ -3,12 +3,57 @@ layout: page
 title: Poetry
 permalink: /poetry/
 ---
+
 # My silly little thoughts
 Welcome to my collection of poems presented in reverse chronological order from when I considered it to be "complete".
  
 A glimpse of my vulnerability through words.
 
 If I have original art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
+
+## to the loves of my life
+There a lot of poems and songs about romantic love\
+and not enough about the friends who go beyond and above
+
+You all know who you are...\
+this is for my dear friends, near and far. 
+
+Here's to the friends that have turned into family,\
+friends who have known different versions of me.\
+Here's to the friends who make strange places feel like home\
+friends who remind me that I'm not alone.
+
+This is for all the sad and happy tears we've cried\
+this is for all the times you've stayed by my side\
+this is for the friends who'd pick me up at dawn,\
+& to the friends who'd be out downtown all night long. 
+
+There's an "I love you" embedded in home-cooked dinner nights\
+an "I love you" sitting in silence under flickering neon lights\
+an "I love you" in the comfort of a silent room\
+an "I love you" in texting "<i>omg look at the moon!!</i>"\
+an "I love you" in "<i>let me know when you make it home</i>"\
+an "I love you" in "<i>I'll stay with you on the phone</i>"\
+an "I love you" in "<i>omg you would love this song</i>"\
+an "I love you" in dancing and singing at a show all night long\
+an "I love you" in "<i>wanna get brunch and go thrifting?</i>"\
+an "I love you" in "<i>let's try this DIY painting and crafting</i>"
+
+This goes out to my friends who helped heal a heart they didn't break\
+& to the friends who'd sit & watch the sun set with me by the lake.\
+To the friends who's not afraid to fail at trying something new\
+& to the friends who supported me no matter which path I choose. 
+
+I'm sorry our society has forgotten to acknowledge the importance of your presence\
+blinded by the illusion that romantic love is the purest love in all its essence. 
+
+This poem is a reminder that I see and love all of you\
+& to all: don't forget to let your friends know you love 'em truly, deeply love 'em, too. 
+
+<div id="friendship">
+    <img src="{{ '/assets/img/friendship.jpg' | prepend: site.baseurl }}" alt="platonic love">
+</div>
+#aigeneratedimage found it cute hehehe
 
 ## the duality of (wo)man
 There's a strange pain in the saying that 2 things can be true\
@@ -448,3 +493,38 @@ Little bird, promise me I'll transform into a majestic tree,\
 Don't let them reduce me to an inanimate form, you'll see,\
 Beyond our finite season lies an infinite quest for authenticity,\
 Little bird, this is not a tragedy, but a chance for eternity.
+
+## the great conjunction of 2020
+Beneath the moon's glow, I sat, struggling to find peace,\
+Jupiter & Saturn just within the moon's reach.\
+Bright and bold, a cosmic dance,\
+I longed to share this glance.
+
+Wishing for a soul to appreciate the view,\
+The "silly" things, the beautiful, the cosmic truth.\
+The moon, a reminder of the <i>me before you</i>,\
+Unchanged, yet I've transformed through and through.\
+With you, my sense of self shifted, but shouldn't have swayed,\
+The moon's glow reflects the price I've paid.
+
+In its light, I see my own worth,\
+My beauty, my brightness, my mirth.\
+Saturn's presence, not a necessity,\
+But together, we're an enhanced entity.\
+Alone, I feel love, a **belonging** so deep,\
+A contrast to the companionship we struggled to keep.
+
+The awe of the moon, a revelation missed in your company,\
+In solitude, its beauty magnifies, a discovery so uncanny.\
+Tell me, why did I crave your affirmation,\
+When alone, I found my salvation?\
+Why did I seek to show you the moon's grace,\
+When without you, I found my own space?
+
+The moon, ever whole, through phases it transitions,\
+A mirror to my journey, through all its conditions.\
+Never incomplete, not lacking, nor less,\
+In its cycle, a lesson, in self-love, I confess.\
+No longer seeking your validation to feel,\
+The moon's beauty, in my solitude, heals.
+

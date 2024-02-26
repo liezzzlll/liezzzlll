@@ -91,7 +91,7 @@ Top image was finished on Nov 2021, drawn after a core memory was made. What was
 <div id="enjoy-the-passage-of-time">
     <img src="{{ '/assets/img/enjoythepassageoftime.jpg' | prepend: site.baseurl }}" alt="enjoy the passage of time">
 </div>
-#madebyme
+#madebyme I follow this instagram account @brogan.draws and did a "cover" of his original creations.  idk if "cover" is the correct term, but you know what I mean!
 
 ## hopeful liezzzlll
 <div id="hopeful-liezl">

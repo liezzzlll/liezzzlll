@@ -53,7 +53,7 @@ This poem is a reminder that I see and love all of you\
 <div id="friendship">
     <img src="{{ '/assets/img/friendship.jpg' | prepend: site.baseurl }}" alt="platonic love">
 </div>
-#aigeneratedimage found it cute hehehe
+#aigeneratedimage #promptbyme found it cute hehehe
 
 ## the duality of (wo)man
 There's a strange pain in the saying that 2 things can be true\
@@ -273,7 +273,7 @@ _I still can't listen to Strobe_\
 Cause when I do,\
 I am back on your couch, transcending through time & space.\
 Cause when I do,\
-I still feel your thumb rub my shoulders as you consoled as tears streamed down my face.
+I still feel your thumb rub my shoulders consoling me as tears streamed down my face.
 
 Cause when I do,\
 I remember feeling safe...
@@ -283,6 +283,9 @@ when I can listen to Strobe without my heart hurting,\
 but right now it still aches.
 
 >December 2023: I listened to Strobe and my heart no longer ached.
+<div id="strobe">
+    <img src="{{ '/assets/img/strobe.jpg' | prepend: site.baseurl }}" alt="Strobe">
+</div>
 
 ## time's gentle art
 In realms where mere survival isn't all,\

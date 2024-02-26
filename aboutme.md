@@ -8,16 +8,23 @@ Ookie, lemme tell you about my silly little portfolio by asking this question fi
 <div id="thirdspace">
     <img src="{{ '/assets/img/e3rdspace.png' | prepend: site.baseurl }}" alt="e-3rd space">
 </div>
+#aigeneratedimage #promptbyme
 
 <p><i>"The privelege of a liftime is being who you are"</i> - Joseph Campbell </p>
 
 I would do my time here on Earth a disservice if I acted any different from who I am. Being creative is the ability to express ourselves beyond words, beyond sight, beyond sound... being creative is the ability to express! 
+
+<div id="beyou">
+    <img src="{{ '/assets/img/bu.jpg' | prepend: site.baseurl }}" alt="be you">
+</div>
+#seenonsocialmedia #notmine
 
 To <i>feel</i> is to be <b>alive</b>. This is me sharing my <i>human-ness</i>! A personal human journey of a silly little girl on Earth around the time of peak patriarchal regime, late stage capitalism, and the modern enlightenment era.  
  
 <div id="humanness">
     <img src="{{ '/assets/img/humanness.dall-e.png' | prepend: site.baseurl }}" alt="human-ness">
 </div>
+#aigeneratedimage #promptbyme
 
 So, my intention for this site is to share my art with the e-world beyond what my physical body can do! Perhaps someone will come across this and feel a sense of connection, and honestly, even if that person is me, that's enough.  I'm not afraid to take up space, or at least, I'm not afraid to anymore.  
 

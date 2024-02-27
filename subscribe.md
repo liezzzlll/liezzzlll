@@ -5,7 +5,7 @@ permalink: /subscribe/
 ---
 If you'd like get updates on any new posts or artwork added, subscribe here!  I appreciate ya!
 
-<form id="subscribe-form" action="https://script.google.com/macros/s/AKfycby1smtGNyBGkIsGv4zWjTg0W661p3f4sB2cd0LXt0klPxH5OxXW-exMimMVGa3dZCj3YA/exec" method="post">
+<form id="subscribe-form" action="https://script.google.com/macros/s/AKfycby7A4kNrA4tvGWN0kQf6LLCQdNdndnFoSx2fCdd9IOY3CDclt_b_zGJrqGb_FWo1_HdQQ/exec" method="post">
   <input type="email" name="email" required placeholder="Enter your email">
   <button type="submit">Subscribe</button>
 </form>

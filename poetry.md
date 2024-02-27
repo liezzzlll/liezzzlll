@@ -53,7 +53,7 @@ This poem is a reminder that I see and love all of you\
 <div id="friendship">
     <img src="{{ '/assets/img/friendship.jpg' | prepend: site.baseurl }}" alt="platonic love">
 </div>
-#aigeneratedimage #promptbyme found it cute hehehe
+#aigeneratedimage
 
 ## the duality of (wo)man
 There's a strange pain in the saying that 2 things can be true\
@@ -135,7 +135,7 @@ _You broke me immensely_\
 I'm healing painfully and beautifully.
 
 We grew together, but you chose to grow apart\
-I hope that path bring peace in your mind and heart\
+I hope that path bring peace to your mind and heart\
 You were the love of my life _for a period in time_ \
 You'll always be that, even if you're no longer mine\
 You'll always be that in the mosaic of my life
@@ -146,7 +146,7 @@ You'll always be that in the mosaic of my life
 
 ## hurt&feel.hurt&heal
 My hurt and pain whispers to me,\
-"No, no no no... this isn't how it's supposed to be."\
+<i>"No, no no no... this isn't how it's supposed to be."</i>\
 I have to heal so I can really see,\
 The truth without the lens of the wounds that have cut me deeply.
 
@@ -278,8 +278,7 @@ I still feel your thumb rub my shoulders consoling me as tears streamed down my 
 Cause when I do,\
 I remember feeling safe...
 
-I think I'll know when I've moved on\
-when I can listen to Strobe without my heart hurting,\
+I think I'll know when I've moved on when I can listen to Strobe without my heart hurting,\
 but right now it still aches.
 
 >December 2023: I listened to Strobe and my heart no longer ached.
@@ -303,7 +302,7 @@ An energy that blooms in every hour,\
 We find ourselves in timeless interplay,\
 A sacred dance that lights our Earthly way.
 
-By your side, what honr does life lend,\
+By your side, what honor does life lend,\
 A journey's shared, a song that knows no end.
 
 In life, we own no thing, all borrowed grace,\
@@ -312,7 +311,7 @@ Yet what we make together fills all space.
 Through cosmos we connect, our spirits dance,\
 I see you in the stars, a glimmering glance.
 
-Remember bb, as time and distance blend,\
+Remember as time and distance blend,\
 The art we make is ours until the end.
 
 ## canvas of our memories
@@ -324,26 +323,26 @@ With the softest bed, and love expressed.
 A morning of croissants, of laughter and sips,\
 Mimosa-drenched memories at our fingertips.\
 Rain tapping our tent, our canvas love-scent,\
-This journey's most joyful of trips.
+This is a journey I'll never forget.
 
 Sailing through psychedelic love, my heart is so light.\
 With you by my side, every moment feels so right.\
-~XXXXXX~, with you, every star shines so bright,\
+Bb, with you, every star shines so bright,\
 In the canvas of our memories, you paint the most beautiful sight.
 
 A scenic drive with kite surfers on the view,\
-Drenched in rain, love's brew.\
-With every bite we shared, the universe echoed,\
-"I am so in love with you."
+Your hand on my thigh, my soul renewed.\
+With every bite we shared, the universe sang along,\
+Because with you, even mundane noise turns into a song.
 
 Hiding from the bugs, under the covers we cuddled tight,\
 Feeling your warmth, chasing away the night.\
-Tabs popped, the world breathed anew,\
+Lil papers on our tongue, the world a breath-taking sight,\
 In the ocean of love, we take flight.
 
 Sailing on the waves of our psychedelic song,\
 With you, every right feels like it can't be wrong.\
-~XXXXXX~, in your arms, is where I truly belong,\
+Bb, in your arms, is where I truly belong,\
 In the artwork of our memories, where our love is strong.
 
 Sun-kissed, we danced in the water's embrace,\
@@ -353,30 +352,30 @@ With every touch, love illuminates this place.
 
 Flying our kite, syncing with the music's delight,\
 In the audience of the sunset, our love in plain sight.\
-With stars above us, the whip dance in the night,\
-~XXXXXX~, with you, I found my eternal light.
+With stars above us, you watched my whip dance at night,\
+Bb, with you, I found my eternal light.
 
 Sailing through psychedelic love, my heart is so light.\
 With you by my side, every moment feels so right.\
-~XXXXXX~, with you, every star shines so bright,\
+Bb, with you, every star shines so bright,\
 In the canvas of our memories, you paint the most beautiful sight.\
 Sailing on the waves of our psychedelic song,\
 With you, every right feels like it can't be wrong.\
-~XXXXXX~, in your arms, is where I truly belong,\
+Bb, in your arms, is where I truly belong,\
 In the artwork of our memories, where our love is strong.
 
-~XXXXXX~, it's with you, I tasted love's sweet melody,\
+Bb, it's with you, I tasted love's sweet melody,\
 Unveiled the truth, of what it means to be free.\
 In the canvas of our days, our love's unique tapestry,\
-~XXXXXX~, in your arms, I found love's infinity.
+Bb, in your arms, I found love's infinity.
 
 _oh the disconnect,\
-I wrote this a few days before you left..._
+I finished this poem just a few days before you left..._
 
 ## i've said it
 Baby there’s something I’ve been wanting to tell you
 I just haven't dared to say the words out loud\
-But I swear I’ve said it \
+But I swear I’ve said it\
 I’ve told you before\
 I guess differently\
 Like signs disguised as contrails near the clouds
@@ -417,7 +416,7 @@ I’ve said it in the form of acceptance\
 I’ll never forget the moment Orion gave us a second chance
 
 I’m hoping you’ve said it too\
-~XXXXXX~, I am so in love with you
+I am so in love with you
 
 >I couldn't quite tell him yet, I didn't want to tell him I loved him when I did. So I wrote this poem and I read it to him lololol.
 
@@ -426,7 +425,7 @@ We ran in the rain\
 Hand in hand\
 Laughing as the sky unapologetically cried to us.
 
-Not a care in the world what we were drenched,\
+Not a care in the world that we were drenched,\
 because we accepted the fact that going through the storm\
 is essential to appreciate the sunshine
 
@@ -460,7 +459,7 @@ It’s beautiful that we can do more than just merely survive\
 We can create long-lasting ideas\
 Things\
 Art\
-That surpasses the inevitable turbulence of time
+...that surpasses the inevitable turbulence of time
 
 ## falling
 We ate my favorite food\
@@ -487,7 +486,7 @@ Like falling leaves, affecting the earth for all to see.
 Little bird, don't be deceived, we aren't meant to fly eternally,\
 Longer journeys aren't always better, as some birds fail to see,\
 They spend their lives wondering why wings were given instead of feet,\
-Forgetting the heights their wings could reach, oh what a feat!
+Forgetting the heights their wings could reach.
 
 Lay me where growth continues, where my legacy thrives,\
 Among animals and flowers, where nature truly derives.
@@ -501,10 +500,10 @@ Little bird, this is not a tragedy, but a chance for eternity.
 Beneath the moon's glow, I sat, struggling to find peace,\
 Jupiter & Saturn just within the moon's reach.\
 Bright and bold, a cosmic dance,\
-I longed to share this glance.
+I longed for someone to share this glance.
 
 Wishing for a soul to appreciate the view,\
-The "silly" things, the beautiful, the cosmic truth.\
+The "_silly_" things, the beautiful, the cosmic truth.\
 The moon, a reminder of the <i>me before you</i>,\
 Unchanged, yet I've transformed through and through.\
 With you, my sense of self shifted, but shouldn't have swayed,\

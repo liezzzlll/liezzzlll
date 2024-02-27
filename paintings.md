@@ -5,7 +5,7 @@ permalink: /paintings/
 ---
 
 # My silly little paintings
-Welcome to my collection of paintings, mixed media with some paintings, etc.  A lot of these are inspired from images I've seen floating around social media. Added a lil Liezl dust, and here we are!
+Welcome to my collection of paintings, mixed media with some paintings, etc.  A lot of these are inspired from images I've seen floating around social media. Added a lil Liezl dust, and here we are! These are in no particular order.
 
 ## the knight beneath the armor
 <div id="the-knight-beneath-the-armor">

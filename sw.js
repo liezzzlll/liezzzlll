@@ -14,3 +14,4 @@ self.addEventListener('fetch', event => {
     // Optional: respond to requests for fetching resources from the network
     console.log('Fetching:', event.request.url);
 });
+  

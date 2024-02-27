@@ -30,6 +30,7 @@ navbar-links:
     - Digital Art: "digital"
   Videos: "videos"
   Songs: "songs"
+  Subscribe!: "subscribe"
 
 ################
 # --- Logo --- #
@@ -55,6 +56,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  email: 	lifeofliezzzlll@gmail.com
   instagram: liezzzlll
   spotify: bvb99b46ranq4mjax3qu4ikxh
 #  medium: yourname

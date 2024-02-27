@@ -1,6 +1,6 @@
 ---
 layout: page
-title: songs
+title: Songs
 permalink: /songs/
 ---
 

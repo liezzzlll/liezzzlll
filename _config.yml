@@ -30,7 +30,6 @@ navbar-links:
     - Digital Art: "digital"
   Videos: "videos"
   Songs: "songs"
-  Subscribe!: "subscribe"
 
 ################
 # --- Logo --- #
@@ -56,9 +55,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: 	lifeofliezzzlll@gmail.com
   instagram: liezzzlll
+  tiktok: liezzzlll
   spotify: bvb99b46ranq4mjax3qu4ikxh
+  email: 	lifeofliezzzlll@gmail.com
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: 
@@ -82,6 +82,7 @@ social-network-links:
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
+#  tiktok: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -93,8 +94,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: false
   vk: false
 

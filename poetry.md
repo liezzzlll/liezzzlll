@@ -9,7 +9,7 @@ Welcome to my collection of poems presented in reverse chronological order from 
  
 A glimpse of my vulnerability through words.
 
-If I have original art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
+If I have art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
 
 ## to the loves of my life
 There a lot of poems and songs about romantic love\
@@ -53,7 +53,7 @@ This poem is a reminder that I see and love all of you\
 <div id="friendship">
     <img src="{{ '/assets/img/friendship.jpg' | prepend: site.baseurl }}" alt="platonic love">
 </div>
-#aigeneratedimage
+#aigenerated #madebydall-e
 
 ## the duality of (wo)man
 There's a strange pain in the saying that 2 things can be true\
@@ -244,7 +244,7 @@ What does that say about what **matters the most** in this world to you?
 
 ## (the original) orion
 <div id="orion">
-    <img src="{{ '/assets/img/orionbytaylor.jpg' | prepend: site.baseurl }}" alt="orion by taylor">
+    <img src="{{ '/assets/img/og.orion.jpg' | prepend: site.baseurl }}" alt="og orion">
 </div>
 Someone, <i> at some point in this silly lil life of mine, </i> cared enough about me to write me this cute poem. He left me tho and I was shattered, as you can see lolz. 
 

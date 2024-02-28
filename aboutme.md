@@ -4,31 +4,41 @@ title: About me
 subtitle: What's the meaning of all dis?!?!
 ---
 
-Ookie, lemme tell you about my silly little portfolio by asking this question first: would you consider "the internet" a third space? I feel like it kinda plays that role, especially since we don't have a lot of those here in the US. So, in a way, whenever we're online, we're walking into a new realm, getting teleported into a different place.  If that's the case, our "internet personas" can either be a direct, or close reflection of your physical, human body...or ... I guess you can rebuild your lil online avatar to be someone completely different.
+Oookie, lemme tell you about my silly little portfolio by asking this question first: would you consider _the internet_ and _the act of being online_ a third space? I feel like it kinda plays that role. So, in a way, whenever we're online, we're walking into a new realm, getting teleported into a different place! If that's the case, our "internet personas" can either be a direct, or close reflection of our physical, human body...**or** ... I guess you can rebuild your lil online persona to be someone completely different, and in some cases, even completely anonymous. 
 <div id="thirdspace">
     <img src="{{ '/assets/img/e3rdspace.png' | prepend: site.baseurl }}" alt="e-3rd space">
 </div>
-#aigeneratedimage #promptbyme
 
-<p><i>"The privelege of a liftime is being who you are"</i> - Joseph Campbell </p>
+I would do my time here on Earth a disservice if I acted any different from who I truly am inside this virtual, third space, that we spend a lot of time in!
 
-I would do my time here on Earth a disservice if I acted any different from who I am. Being creative is the ability to express ourselves beyond words, beyond sight, beyond sound... being creative is the ability to express! 
+Does that make sense?\
+It makes sense to me...
+
+Being creative is the ability to express ourselves beyond words, beyond sight, beyond sound... being creative is the ability to fully express!
+
+As I grow <s>older</s> wiser, I'm learning to embrace this about myself.   
+
+> "The privelege of a liftime is being who you are"\
+> -Joseph Campbell
 
 <div id="beyou">
     <img src="{{ '/assets/img/bu.jpg' | prepend: site.baseurl }}" alt="be you">
 </div>
-#seenonsocialmedia #notmine
 
 To <i>feel</i> is to be <b>alive</b>. This is me sharing my <i>human-ness</i>! A personal human journey of a silly little girl on Earth around the time of peak patriarchal regime, late stage capitalism, and the modern enlightenment era.  
  
 <div id="humanness">
     <img src="{{ '/assets/img/humanness.dall-e.png' | prepend: site.baseurl }}" alt="human-ness">
 </div>
-#aigeneratedimage #promptbyme
 
-So, my intention for this site is to share my art with the e-world beyond what my physical body can do! Perhaps someone will come across this and feel a sense of connection, and honestly, even if that person is me, that's enough.  I'm not afraid to take up space, or at least, I'm not afraid to anymore.  
+So, my intention for this site is to **share my art with the e-world!** _As much art as possible_! I saw this post circulating around on various social media platforms, and I'd like to share it here:
+> I think everything in life is art. What you do. How you dress. The way you love someone, and how you talk. Your smile and your personality. What you believe in, and all your dreams. The way you drink your tea. How you decorate your home. Or party. Your grocery list. The food you make. How your writing looks. and the way you feel.\
+>**life. is. art.** 
 
-## Fave quote to date
+So perhaps someone will come across this page and feel a sense of connection and a glimpse of one slice of my humanity, and honestly, even if that person is me, that's enough. I'm not afraid to take up space, or at least, I'm not afraid to anymore.  
 
-> It is only with the heart that one can see rightly; what is essential is invisible to the eye. 
+> It is only with the heart that one can see rightly; what is essential is invisible to the eye.\
 > -Antoine de Saint-Exupéry, The Little Prince
+
+## Follow my social media for new content updates!
+My social media links are at the footer of this site.  Since you made it this far, I assume you'd be interested in getting updates about any new content!

@@ -327,7 +327,7 @@ This is a journey I'll never forget.
 
 Sailing through psychedelic love, my heart is so light.\
 With you by my side, every moment feels so right.\
-Bb, with you, every star shines so bright,\
+With you, every star shines so bright,\
 In the canvas of our memories, you paint the most beautiful sight.
 
 A scenic drive with kite surfers on the view,\
@@ -342,7 +342,7 @@ In the ocean of love, we take flight.
 
 Sailing on the waves of our psychedelic song,\
 With you, every right feels like it can't be wrong.\
-Bb, in your arms, is where I truly belong,\
+In your arms, is where I truly belong,\
 In the artwork of our memories, where our love is strong.
 
 Sun-kissed, we danced in the water's embrace,\
@@ -353,21 +353,21 @@ With every touch, love illuminates this place.
 Flying our kite, syncing with the music's delight,\
 In the audience of the sunset, our love in plain sight.\
 With stars above us, you watched my whip dance at night,\
-Bb, with you, I found my eternal light.
+With you, I found my eternal light.
 
 Sailing through psychedelic love, my heart is so light.\
 With you by my side, every moment feels so right.\
-Bb, with you, every star shines so bright,\
+With you, every star shines so bright,\
 In the canvas of our memories, you paint the most beautiful sight.\
 Sailing on the waves of our psychedelic song,\
 With you, every right feels like it can't be wrong.\
-Bb, in your arms, is where I truly belong,\
+In your arms, is where I truly belong,\
 In the artwork of our memories, where our love is strong.
 
-Bb, it's with you, I tasted love's sweet melody,\
+It's with you, I tasted love's sweet melody,\
 Unveiled the truth, of what it means to be free.\
 In the canvas of our days, our love's unique tapestry,\
-Bb, in your arms, I found love's infinity.
+In your arms, I found love's infinity.
 
 _oh the disconnect,\
 I finished this poem just a few days before you left..._

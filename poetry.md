@@ -11,6 +11,63 @@ A glimpse of my vulnerability through words.
 
 If I have art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
 
+## reclaiming my reign
+But beneath the roses, thorns began to sprout,\
+Silent shadows, casting doubt.\
+The garden we nurtured, now barren, deserted,\
+Leaves of our love, withered, inverted.
+
+In the mirror of memories, I seek my reflection,\
+Questioning love's flawed direction.\
+Betrayed by the heart, blinded by affection,\
+Searching for solace, yearning for connection.
+
+Yet, in this chasm of echoing pain,\
+I find my strength, I reclaim my reign.\
+For within my core, a resilient flame,\
+Illuminates my path, redefines my aim.
+
+Though scars remain, as testimonies true,\
+Of love's fleeting kiss, and its bitter adieu.\
+I rise from the ashes, with a spirit anew,\
+Embracing my journey, under skies ever blue.
+
+## the apology (i never got, but wish i did)
+In the silence of my mind, I hear your voice resonate,\
+Echoes of the love we shared, now shadows of our fate.\
+Blinded by a dream so vast, I left your heart to bleed,\
+In pursuit of distant stars, I failed to see your need.
+
+I'm sorry for the pain I caused, the tears that stained your cheek,\
+For every whispered promise made, yet proved myself so weak.\
+The apology you never heard, now etched upon the sky,\
+A confession to the stars, an unspoken lullaby.
+
+I chased a vision selfishly, believed it was my call,\
+In my tunnel visioned quest, I neglected our own fall.\
+Now reflections haunt my nights, your sorrow in my dreams,\
+I wish I could turn back time, mend the seams.
+
+If words could travel back in time, and mend a broken heart,\
+I'd send a thousand apologies, to where we fell apart.\
+Yet here in silent reverie, my regret remains unspoken,\
+An echo of our love, a token.
+
+I'm sorry for the silence, for the void I left so wide,\
+For not being there to catch the tears you've cried.\
+The apology you never heard, now a whisper in the breeze,\
+A silent plea for forgiveness, a heart on its knees.
+
+Though words remain unuttered, and our paths may never cross,\
+Know my heart bears the burden, the gravity of loss.\
+For in the quiet of the night, under the watchful eye of the moon,\
+I whisper my unsaid apology, a melancholy tune.
+
+<div id="apology">
+    <img src="{{ '/assets/img/theapology_inevergot.jpg' | prepend: site.baseurl }}" alt="no apology">
+</div>
+#aigenerated #madebydall-e
+
 ## to the loves of my life
 There a lot of poems and songs about romantic love\
 and not enough about the friends who go beyond and above

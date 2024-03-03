@@ -23,13 +23,15 @@ baseurl: "/liezzzlll"
 
 navbar-links:
   About Me: "aboutme"
-  Poetry: "poetry"
+  Live Shows: "shows-map.html"
   Images:
     - Drawings: "drawings"
     - Paintings: "paintings" 
     - Digital Art: "digital"
-  Videos: "videos"
-  Songs: "songs"
+  Poetry: "poetry"
+  Upcoming:
+    - Videos: "videos"
+    - Songs: "songs"
 
 ################
 # --- Logo --- #

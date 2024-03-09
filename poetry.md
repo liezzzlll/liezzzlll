@@ -11,6 +11,37 @@ A glimpse of my vulnerability through words.
 
 If I have art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
 
+## Life’s Tapestery 
+A poet once said,\
+"There is always grief for the lives we don’t get to live,\
+even if there isn’t regret." 
+
+So I'll build on that...
+
+There is poignancy in the moments that have now\
+turned into memories that we will never forget. 
+
+There is pain in the dreams we’ve shared\
+with people who have now left.  
+
+There is always heartache in a love shared\
+between those whose needs were unmet. 
+
+But even then, I know that
+
+There will be joy in the life I get to live,\
+an experience that I would not even expect.
+
+There will be comfort in new moments\
+that will turn into new memories that I won’t forget.
+
+And slowly the pain will diminish into lessons\
+and learn that there are people I’ll love that I haven’t even met.
+
+I’ll find contentment some day, somehow,, in this life now,\
+Knowing that there isn’t an experience I regret. 
+
+
 ## reclaiming my reign
 But beneath the roses, thorns began to sprout,\
 Silent shadows, casting doubt.\

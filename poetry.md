@@ -11,7 +11,15 @@ A glimpse of my vulnerability through words.
 
 If I have art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
 
-## Life’s Tapestery 
+## reminder to self
+& I have to keep reminding myself...\
+the **you** that I love is only in my head\
+_real you_ left me to crumble alone in my bed\
+hurts just as bad, grieving someone who's not dead\
+even if we worked it out, we wouldn't have lasted\
+day-by-day I'm understanding evanescence. 
+
+## life’s tapestery 
 A poet once said,\
 "There is always grief for the lives we don’t get to live,\
 even if there isn’t regret." 
@@ -27,9 +35,9 @@ with people who have now left.
 There is always heartache in a love shared\
 between those whose needs were unmet. 
 
-But even then, I know that
+But even then, I know that...
 
-There will be joy in the life I get to live,\
+there will be joy in the life I get to live,\
 an experience that I would not even expect.
 
 There will be comfort in new moments\
@@ -38,7 +46,7 @@ that will turn into new memories that I won’t forget.
 And slowly the pain will diminish into lessons\
 and learn that there are people I’ll love that I haven’t even met.
 
-I’ll find contentment some day, somehow,, in this life now,\
+I’ll find contentment some day, somehow, in this life now,\
 Knowing that there isn’t an experience I regret. 
 
 
@@ -59,9 +67,9 @@ For within my core, a resilient flame,\
 Illuminates my path, redefines my aim.
 
 Though scars remain, as testimonies true,\
-Of love's fleeting kiss, and its bitter adieu.\
-I rise from the ashes, with a spirit anew,\
-Embracing my journey, under skies ever blue.
+Of love's fleeting kiss, and its shades of blue.\
+I rise from the ashes, with a spirit all new,\
+Embracing my journey, a clear horizon in view.
 
 ## the apology (i never got, but wish i did)
 In the silence of my mind, I hear your voice resonate,\
@@ -82,7 +90,7 @@ I wish I could turn back time, mend the seams.
 If words could travel back in time, and mend a broken heart,\
 I'd send a thousand apologies, to where we fell apart.\
 Yet here in silent reverie, my regret remains unspoken,\
-An echo of our love, a token.
+An echo of our lost love, an invaluable token.
 
 I'm sorry for the silence, for the void I left so wide,\
 For not being there to catch the tears you've cried.\
@@ -100,8 +108,8 @@ I whisper my unsaid apology, a melancholy tune.
 #aigenerated #madebydall-e
 
 ## to the loves of my life
-There a lot of poems and songs about romantic love\
-and not enough about the friends who go beyond and above
+There's a lot of poems and songs about romantic love\
+but not enough about the friends who go beyond and above!
 
 You all know who you are...\
 this is for my dear friends, near and far. 
@@ -157,7 +165,7 @@ People can only love you as deeply as they love themselves\
 I started to feel your distance the more I loved myself
 
 In pursuit of freedom from the love that also caused you pain\
-You discarded me for the value you've placed in money and fame
+You discarded me for the value you've placed on money and fame
 
 We now only exist in dreams & faded memories\
 I don't regret how you loved and left me
@@ -199,7 +207,7 @@ A trade of the soul for a metallic face.\
 Yet I hope you're healing, finding your peace,\
 The love I gave you is yours to keep.
 
-Though now we exist in memories and photos unframed,\
+Though now we only exist in memories and photos unframed,\
 My heart still echoes with the love you tamed.\
 Not a trophy to display, nor a prize to claim,\
 I loved the man within, not just the fame.
@@ -211,7 +219,7 @@ But in reality's grasp, it's a vision we'll never meet.
 
 We grew together, but you chose to grow apart\
 I hope the path you chose brings peace to your mind and heart.\
-You were the love of my life _for a period of time_\
+You were the love of my life _for a moment in time_\
 You'll always be that in the mosaic of my life.
 
 Is this the last love letter, words left unsent?\
@@ -223,8 +231,8 @@ _You broke me immensely_\
 I'm healing painfully and beautifully.
 
 We grew together, but you chose to grow apart\
-I hope that path bring peace to your mind and heart\
-You were the love of my life _for a period in time_ \
+I hope that path brings peace to your mind and heart\
+You were the love of my life _for a moment in time_ \
 You'll always be that, even if you're no longer mine\
 You'll always be that in the mosaic of my life
 

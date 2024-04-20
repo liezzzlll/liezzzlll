@@ -54,6 +54,10 @@ At the end of each night at Hulaween, Mom and I snuggled together. Some nights s
 
 Since Hula, we’ve been visiting a lot of parks. Often, I just stay in the car, but I still enjoy the ride.
 
+<div class="Dragon and me">
+    <img src="{{ '/assets/img/dragon_and_me.jpg' | prepend: site.baseurl }}" alt="Dragon and Liezl">
+</div>
+
 The latest adventure I joined was for the solar eclipse! Wow, did Mom have a special treat for us! On our way to Buffalo, NY from Raleigh, NC, we stopped at a campground in Roanoke, Virginia, where Mom started and maintained a campfire all by herself! She was so excited, and I watched her just sit and watch the fire for hours. This was the first time I’ve seen her so quiet, and without any music playing. Have I mentioned that Mom LOVES listening to music?! Before heading to bed, Mom let out a quiet cry. She didn’t look sad, though. She looked relieved. I think crying just means she has done a lot of internalizing about her external world, and I can totally see that. I would cry every day if I had to make sense of my world! Good thing I’m a stuffed animal and can’t really do that! Hehehehe!
 
 <div class="Dragon camping">
@@ -78,11 +82,11 @@ After the eclipse, Mom and I packed up and made our journey back home to North C
 
 What a grand adventure this weekend was, _but what a grand adventure it has been since Mom won the water gun fair game_.
 
-<div class="Dragon and me">
-    <img src="{{ '/assets/img/dragon_and_me.jpg' | prepend: site.baseurl }}" alt="Dragon and Liezl">
+<div class="Dragon & me">
+    <img src="{{ '/assets/img/dragon_and_mev2.0.jpg' | prepend: site.baseurl }}" alt="Dragon + me">
 </div>
 
-If there’s anything I’ve learned from this entire experience, it’s that sometimes no matter how much time you spend perfecting and learning about a game (like my mom did for the fair games), experiencing life's adventures is sometimes like the solar eclipse phenomenon: it takes a combination of luck, weird coincidences, and inopportune timing to be marveled in all its beauty.
+If there’s anything I’ve learned from this entire experience, it’s that no matter how much you prepare, just like my mom discovering me among the fair prizes, life’s adventures often unfold in their own unpredictable and magical way, much like a solar eclipse—where a mix of serendipity, odd timing, and sheer luck allows us to witness beauty in its most breathtaking form.
 
 Until next adventure,
 

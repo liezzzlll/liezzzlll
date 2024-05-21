@@ -11,6 +11,115 @@ A glimpse of my vulnerability through words.
 
 If I have art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
 
+## for the chapters we close
+In the quiet corners of an emptied room,\
+Where laughter once danced with the dust,\
+Lies the echo of a door softly closing,\
+A whispered goodbye to what once was.
+
+We grieve the undead, those ghosts of selves,\
+Once vibrant with dreams and morning light,\
+Now shadows that flicker in our quiet moments,\
+Reminders of what's passed out of sight.
+
+This apartment, once a shared home,\
+Whispers in the creaks of its bones,\
+Of days filled with familiar smiles,\
+Now silent as we forge paths unknown.
+
+We mourn not just the love that’s lost,\
+But the version of us that loved so deep,\
+A self that dwells in the realm of memory,\
+In the pages of a chapter we no longer keep.
+
+Yet in this sadness, there’s truth so tender,\
+Each tear a testament to the life we've known,\
+Grieving is but love’s own echo,\
+A sign of seeds once lovingly sown.
+
+So let us honor every ache,\
+Each one a note in a symphony so sweet,\
+For in every ending there’s a promise,\
+Of new roads waiting beneath my feet.
+
+## it won't take me 10 yrs
+You said you'd miss this view in ten years,\
+Living in the suburbs, caught in your fears.\
+I laughed and said, "You don’t have to go,\
+Stay here with me, let’s see where this life flows."
+
+But now I stand on the edge of change,\
+Moving away from this city, chasing a new range.\
+It won't take me a decade to see,\
+The beauty of the past, the memories of you and me.
+
+It won’t take me 10 years to appreciate this view,\
+Every time I think of Raleigh, and all that we knew.\
+Not with a sense of loss, but with a heart that's true,\
+Grateful for the moments, for the time that I grew.
+
+The sunsets we watched, the laughter we shared,\
+The dreams we painted, the times we cared.\
+You spoke of the future, a prophecy so clear,\
+Was I delusional to think it would include me, my dear?
+
+Now as I pack my bags and close this door,\
+I know I’m moving on, but I’m not keeping score.\
+This view, our view, it’s a part of me still,\
+Echoing in my heart, a space it will fill.
+
+It won’t take me 10 years to appreciate this view,\
+Every time I think of Raleigh, and all that we knew.\
+Not with a sense of loss, but with a heart that's true,\
+Grateful for the moments, the love that we grew.
+
+The view included the us with moments so sweet,\
+A chapter in our story, a heartbeat so fleet.\
+I’m healing now, finding my own way,\
+But the past whispers softly, on every sunny day.
+
+It won’t take me 10 years to appreciate this view,\
+Every time I think of Raleigh, and all that we knew.\
+Not with a sense of loss, but with a heart that's true,\
+Grateful for the moments, the seeds that we grew.
+
+So here’s to the future, wherever I may be,\
+Living in the present, wild and free.\
+I refuse to say I miss something if it no longer serves me.\
+I miss how I felt, but I’ll feel that again, I believe!\
+The magic was within me, not only from you\
+For this magic is energy that only comes from the truth,\
+And when something reminds me of Raleigh’s hue,\
+I’ll smile, knowing I appreciated this view.
+
+
+## forgiving a stranger
+I forgive you, even though you’re not apologetic.\
+With severed ties I must move forward, oh how poetic.\
+I used to think your path of choice was incorrect.\
+But a choice can’t be wrong because it was made by the inner voice whose future we presently reflect.\
+Don’t you see, don’t you see?\
+That decision came from the person you wanted to be.\
+Unfortunately, it ended up hurting me.
+
+Betrayal doesn’t come from strangers, but from the trusted few.\
+It’s the cruelest twist of fate, leaving me to misconstrue.\
+I fell in love so blindly,\
+Ignoring the basic need to simply be seen.\
+I gave what I could to someone who didn’t have the capacity to receive\
+…all the love and light I’m rebuilding as I grieve.
+
+Yeah, I forgive you. Even if it means we’re now strangers\
+At least my heart no longer feels like it’s in danger.\
+Although I wish you could have loved me better,\
+I know you couldn’t have loved me more.\
+To heal fully, I have to close this door.
+
+I forgive you & goodbye.\
+Relieved from the burden of always asking “why”.\
+I forgive you & goodbye.
+
+
 ## reminder to self
 & I have to keep reminding myself...\
 the **you** that I love is only in my head\

@@ -7,7 +7,7 @@ cover-img: /assets/img/31stlifemosaic.jpg
 tags: [reflection, diary]
 comments: false
 author: Liezl
-date: 2024-05-09 00:13:00 +0000 # Update this line to the correct date and time
+date: 2024-05-09 00:00:00 +0000 # Update this line to the correct date and time
 ---
 
 I’ve been spinning on this orb of a floating rock (Earth) in my specific body of consciousness (that’s me!) for 31 years now. This year has brought an immense amount of growth and a deeper appreciation for ideologies that bring peace to my understanding of what it means to be alive in this world. So, as a birthday gift to myself—and to my homies and any strangers tuning in—I want to share some words of wisdom that have resonated deeply with me over the past year. Shamelessly, I admit many of these quotes might have popped up in motivational posts on my FYP, and some might even seem painfully obvious, they’ve nonetheless tugged at parts of my soul that were lying dormant, awakening aspects of my being I never knew existed.

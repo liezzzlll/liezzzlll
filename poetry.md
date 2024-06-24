@@ -11,6 +11,70 @@ A glimpse of my vulnerability through words.
 
 If I have art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
 
+## unfinished symphony
+> "For the love I once knew has transformed, so have I."
+
+Recognizing that the love is gone,\
+Proves that I’m moving on.\
+Our memories forever reside in infinity and beyond.\
+Will it haunt you, the unfinished love songs?
+
+Venturing into your world once more,\
+Seeking closure, not from you, but at my core.\
+Amidst remnants of our shared past, I stood,\
+Surviving plants, the familiar art, I understood.
+
+The ghost of what once was now fades,\
+A mere thread in life’s tapestry, past parades.\
+What once felt monumental, now a mere wisp,\
+I’ve found my strength, my heart’s firm grip.
+
+Your inability to grasp my deep-seated pain,\
+Rationalizations, comparisons, all in vain.\
+Your focus remains the same, love conditional and cold,\
+A heart that seeks control, not connections untold.
+
+Our night together, devoid of old sparks,\
+Testament to growth, in these uncharted parks.\
+No longer seeking validation from your side,\
+I found peace within, where old pain resides.
+
+Love, an act of growth, energy’s gentle tide,\
+Not a drain, but a verb, acts with intention implied.\
+Your avoidance, conditional affection stark,\
+Contrasts with my understanding of love’s bright arc.
+
+Realizing our love has flown,\
+Shows how much I’ve grown.\
+Our memories linger like stars in the dawn,\
+Will the unfinished songs haunt you, once I’m gone?
+
+I don’t want to help you finish the symphony you wrote\
+A privilege lost after this heart, you broke.\
+Music was a glue that helped hold us together\
+We were an unfinished song you discarded _'for the better'_
+
+So, with an open heart, I stride ahead,\
+My story continues, not easily read.\
+New adventures, loves, horizons wide,\
+In this vast cosmo of life, I’ll never hide.
+
+I’m not muddying the memories, just seeing it in a different light,\
+Same coin, different sides… _just different sides, same dice._\
+It doesn’t take away from the love I once felt,\
+I’ve removed the rose-colored lenses, another truth once withheld.
+
+Validation sought, clarification needed,\
+A self-image fractured, hopes unheeded.\
+Discomfort in a lens that shows what's true,\
+**Actions** _betray_ the **words** you once knew.
+
+I won’t help complete the symphony you began,\
+A privilege lost when you shattered our plan.\
+Music was the chord that bound our tune,\
+We were an unfinished song you left too soon.
+
+
 ## for the chapters we close
 In the quiet corners of an emptied room,\
 Where laughter once danced with the dust,\

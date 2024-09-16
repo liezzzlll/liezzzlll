@@ -11,6 +11,12 @@ A glimpse of my vulnerability through words.
 
 If I have art work related to the poem, it'll be at the end of the poem, hehehe you'll see! teehee!
 
+## no revenge
+Because if you could betray me like that,\
+I can only imagine\
+the amount of times\
+you've betrayed yourself
+
 ## unfinished symphony
 > "For the love I once knew has transformed, so have I."
 
@@ -515,7 +521,7 @@ What does that say about what **matters the most** in this world to you?
 <div id="orion">
     <img src="{{ '/assets/img/og.orion.jpg' | prepend: site.baseurl }}" alt="og orion">
 </div>
-Someone, <i> at some point in this silly lil life of mine, </i> cared enough about me to write me this cute poem. He left me tho and I was shattered, as you can see lolz. 
+Someone, <i> at some point in this silly lil life of mine, </i> wrote this cute poem for me. He left me tho and I was shattered, as you can see lolz. 
 
 ## i still love an unreal version of you
 I'm still in love with the man\

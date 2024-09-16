@@ -31,6 +31,7 @@ navbar-links:
   Upcoming:
     - Videos: "videos"
     - Songs: "songs"
+  SUBSCRIBE: "subscribe"
 
 ################
 # --- Logo --- #

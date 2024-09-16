@@ -4,7 +4,7 @@ title: About me
 subtitle: What's the meaning of all dis?!?!
 ---
 
-> Dear reader, before proceeding, I would like to be transparent and state that I use an AI tool to help me with this lil' passion project.  My writing has been modified by an AI tool so I can be confident that I'm conveying my thoughts in a clear and concise manner. However, I do proofread all of my posts and ensure that the message I want to convey still remains true to how I originally envisioned it. The poetry section is where I try and maintain my own voice, but I still use an AI tool for ideas. 
+> Dear reader, before proceeding, I would like to be transparent and state that I use an AI tool to help me with this lil' passion project.  My writing has been modified by an AI tool so I can be confident that I'm conveying my thoughts in a clear and concise manner. However, I do proofread all of my posts and ensure that the message I want to convey still remains true to how I originally envisioned it. The [poetry section](https://liezzzlll.github.io/liezzzlll/poetry/) is where I try and maintain my own voice, but I still use an AI tool for ideas. 
 
 Oookie! Now that _**that**_ is out of the way, lemme tell you about my silly little portfolio by asking this question first: would you consider _the internet_ and _the act of being online_ a third space? I feel like it kinda plays that role. So, in a way, whenever we're online, we're walking into a new realm, getting teleported into a different place! If that's the case, our "internet personas" can either be a direct, or close reflection of our physical, human body...**or** ... I guess you can rebuild your lil online persona to be someone completely different, and in some cases, even completely anonymous. 
 <div id="thirdspace">
@@ -42,5 +42,5 @@ So perhaps someone will come across this page and feel a sense of connection and
 > It is only with the heart that one can see rightly; what is essential is invisible to the eye.\
 > -Antoine de Saint-Exupéry, The Little Prince
 
-## Follow my social media for new content updates!
-My social media links are at the footer of this site.  Since you made it this far, I assume you'd be interested in getting updates about any new content!
+## Subscribe and follow my social media for new content updates!
+My social media links are at the footer of this site.  Since you made it this far, I assume you'd be interested in getting updates about any new content! Additionally, you can subscribe by filling out the form [here](https://liezzzlll.github.io/liezzzlll/subscribe/)!

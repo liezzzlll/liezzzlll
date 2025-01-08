@@ -2,7 +2,7 @@
 layout: post
 title: Hello, my name is ...
 subtitle: Reflecting on my Journey with Identity
-thumbnail-img: /assets/img/formarissablog2.jpg
+thumbnail-img: /assets/img/formarissablog2.JPG
 cover-img: /assets/img/formarissablog.jpg
 tags: [reflection, diary, guest author]
 comments: true
@@ -28,7 +28,7 @@ I wish I could tell you a step-by-step process of how to actually know yourself,
 
 # Exploring
 
-<img src="{{ '/assets/img/formarissablog2.jpg' | prepend: site.baseurl }}"> 
+<img src="{{ '/assets/img/formarissablog2.JPG' | prepend: site.baseurl }}"> 
 <small> _Me on one of my first late-night adventures! A friend and I were exploring a park in Cary, North Carolina. This park became one of my favorite places to go to when I needed a space to clear my head._ </small>
 
 When I began this journey, I unconsciously refused to explore my identity. Specifically, I still felt like I had to be this uptight, mature, perfect person who would never do anything immature, carefree, or flawed. When I look back on my childhood though, it all makes sense. I was never allowed to be a kid. My whole life was pre-planned for me, and if I resisted the plan or said that I wanted something that wasn’t to the approval of my parents, I was punished. So if I am used to leading to a rigid and stagnant life for the approval of others, how do I break the cycle? I had the world at my fingertips for the first time and didn’t know what to do with it. Quickly, I realized it was easier to say no to new experiences than yes when your actions are clouded with fear.
@@ -37,7 +37,7 @@ So I started small. I started saying yes to things that might not seem big to ot
 
 Eventually, my decisions grew into bigger experiences. I said yes to going to prom for the first time. An experience I hadn’t realized I was grieving over not having. I said yes to going to a concert, when I didn’t know the band, and had to drive four hours to a city I had never been to after having my license for maybe a month. (The best part was that it was my first concert). From that, I discovered I like rock music.
 
-<img src="{{ '/assets/img/formarissablog3.jpg' | prepend: site.baseurl }}"> 
+<img src="{{ '/assets/img/formarissablog3.JPG' | prepend: site.baseurl }}"> 
 <small> _A picture I took of the band Waterparks’ lead singer Awsten Knight on March 23, 2024. I had only listened to this band for around a month before attending this show, but I quickly began to love their music._ </small>
 
 Now, I just said yes to my dream college. Something that has been terrifying me for a year. But now, I cannot wait to see what new things I will learn about myself through this new experience.

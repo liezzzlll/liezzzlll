@@ -7,7 +7,7 @@ cover-img: /assets/img/formarissablog.jpg
 tags: [reflection, diary, guest author]
 comments: true
 author: Marissa Fluno
-date: 2025-01-06 19:00:00 +0000 # Update this line to the correct date and time
+date: 2025-01-08 10:00:00 +0000 # Update this line to the correct date and time
 ---
 Hey, so this is a little different than what you are used to, but specifically, it’s not _**who**_ you are used to.
 
@@ -64,4 +64,31 @@ At this point in my journey, I concluded that my journey would never truly be ov
 With love, from your favorite blogger’s favorite blogger, 
 
 Marissa
+
 ---
+
+### Afterword from Liezl
+
+**A A H H H H H H H H H H ! ! !**
+
+I'm so _freaking_ proud of you, Marissa!!
+
+Let me set the stage for this moment of celebration: I met Marissa at our adult dance studio, [Diva Dance](https://divadancecompany.com/locations/port-city-north-carolina/), where her energy radiates brighter than stage lights (and _trust me_, her dancing is **just** as dazzling). But _this collaboration?_ _This beautiful melding of words and stories?_ It sprouted from a much simpler, sweeter place: **cat-sitting**. Yes, while I was out of town for the holidays, Marissa took on the noble role of caretaker to my furballs, and in return, a serendipitous opportunity bloomed.
+
+Over the holidays, I was whisked away by the bass and lights of HiJinx Music Festival, wrapped up in the kaleidoscope of joy that is my festival family. My friends, who run the EDM media account [The Daily Frequency](https://thedailyfrequency.com/), noticed something: my writing. They asked if I’d join their team to cover all things EDM culture—something I never imagined would happen, **all because I’ve been sharing my thoughts on this blog**, unapologetically, even when the little voice of self-doubt whispered, _“What if people think I’m cringe?!”_
+
+But here’s the thing: <big>I didn’t care</big>. I realized that those fears—_the fear of being **perceived**, of being **judged**, of **not being enough**_—are like shadows that only exist when you stand still. So, I kept writing, kept sharing, and it led me here.
+
+<img src="{{ '/assets/img/cringebutfree.jpg' | prepend: site.baseurl }}">
+
+And then, while I was riding this wave of creative synchronicity, I found out that Marissa had been accepted into a journalism program at Elon University! _Talk about stars aligning, right!?_ It felt like a little cosmic nudge, reminding me of how beautifully things come together when you lean into your passions.
+
+As I returned home and scooped up my keys from Marissa, I found myself handing her a different set of keys—_**the keys to my blog**_. She’d already proven her storytelling brilliance through her own journey, and I thought, _"Why not let her light shine here, too?"_ This collaboration is just the beginning.
+
+It feels like divine timing, doesn’t it? Like the universe is giving us a cheeky wink, reminding us <big> that life unfolds so beautifully when you’re brave enough to show up as your **authentic self**. </big>
+
+So here’s to you, Marissa, to your courage, and to the thrilling road ahead. Don’t you worry, dear readers—you’ll be hearing (or rather, reading) much more from her.
+
+With all the love and light,
+
+Zel

@@ -61,7 +61,7 @@ While I started to find my taste in EDM music, I had much, much, much more to le
 
 I headed over to Liezl’s apartment around 8 PM Thursday, and while she cooked Filipino food, I picked her brain on her EDM knowledge. 
 
-<img src="{{ '/assets/img/adobo.JPG' | prepend: site.baseurl }}"> 
+<img src="{{ '/assets/img/adobo.jpg' | prepend: site.baseurl }}"> 
 <small> _Liezl made us adobo, a traditional Filipino dish. While she cooked, I asked her a few questions about EDM and its culture._ </small>
 
 **Q:** How would you describe EDM?

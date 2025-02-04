@@ -36,7 +36,7 @@ As I jump into _a whole new world_ **cue the Aladdin song,** I will admit I know
 
 My whole life I have been a lover of all types of music, but over the past year I have become hyper-fixated on “club music.” (Before you yell at me through the screen that club music and EDM are different, trust me I know that. Let me finish.). While we all love the early 2000s and 2010s Kesha, Lady Gaga, and Rihanna, it wasn’t just these artists that I began to love again. My inspiration to explore EDM came from a neon green album cover. 
 
-<img src="{{ '/assets/img/BRAT.PNG' | prepend: site.baseurl }}"> 
+<img src="{{ '/assets/img/BRAT.png' | prepend: site.baseurl }}"> 
 <small> While I am sure you have seen it, this is the iconic cover of Charli XCX’s Brat album.</small>
 
 Charli XCX’s _Brat_ and all of the other reiterations of that album made me fall in love with soul-reverberating, body-moving, techno-like music. While _Brat_ is also considered a pop album, it is a smooth introduction to EDM. And for me, I was (and still am) <big><b>OBSESSED</b></big> with the album. So when I started talking to Liezl and she described EDM music and its culture, I became fascinated with exploring more of this newfound interest. So one day after a dance class, Liezl asked me, “_Do you want to go to an EDM night at a bar with me?_” I was thrilled.

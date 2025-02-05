@@ -10,7 +10,7 @@ author: Marissa Fluno
 date: 2025-02-04 10:00:00 +0000 # Update this line to the correct date and time
 ---
 > ### Foreword from Liezl
-> This piece is special—not just because it captures the magic of discovering EDM for the first time, but because it also serves as Marissa’s way of introducing herself to [Ty](https://thedailyfrequency.com/author/thedailyfrequency/), the founder of [The Daily Frequency](https://thedailyfrequency.com/). Consider this her <b>unconventional application</b> to be an intern. No matter the outcome, I wholeheartedly believe her ability to immerse readers in her experiences makes her a natural fit for TDF’s storytelling.
+> This piece is special—not just because it captures the magic of discovering EDM for the first time, but because it also serves as Marissa’s way of introducing herself to [Ty](https://thedailyfrequency.com/author/thedailyfrequency/), the founder of [The Daily Frequency](https://thedailyfrequency.com/). Consider this her <b>unconventional application</b> to be an intern. No matter the outcome, I wholeheartedly believe her ability to immerse readers in her experiences makes her a natural fit for storytelling.
 >
 > Marissa has a gift for making new worlds feel familiar, for taking a moment and stretching it into something you can feel. And beyond that, she’s got the kind of curiosity and drive that makes for an incredible journalist—one who’s not afraid to dive headfirst into something new, take notes, and dance her way through it.
 >

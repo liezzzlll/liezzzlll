@@ -28,9 +28,9 @@ navbar-links:
     - Drawings: "drawings"
     - Paintings: "paintings" 
   Poetry: "poetry"
+  Music: "music"
   Upcoming:
     - Videos: "videos"
-    - Songs: "songs"
   SUBSCRIBE: "subscribe"
 
 ################

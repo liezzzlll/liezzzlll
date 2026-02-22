@@ -3,7 +3,7 @@ layout: post
 title: Lessons Learned From Being Scammed So You Don't Make The Same Mistakes
 subtitle: Key things to ask a collaborator when working with someone
 thumbnail-img: /assets/img/lyra.jpg
-cover-img: /assets/img/IMG_2143.JPEG
+cover-img: /assets/img/IMG_2143.jpeg
 tags: [reflection, diary]
 comments: true
 author: Liezl
@@ -50,7 +50,7 @@ Here’s where things started to unravel for me.
 
 When I asked to see the budget breakdown, I saw that he had paid himself for 62 hours of labor at $15/hour (about $930), along with additional line items for graphic design and overhead. I’ll post the full breakdown below so you can see it for yourself.
 
-<img src="{{ '/assets/img/expense_screenshot.jpg' | prepend: site.baseurl }}"> 
+<img src="{{ '/assets/img/expense_screenshot.JPG' | prepend: site.baseurl }}"> 
 
 Meanwhile, our dance group wasn’t included as a budgeted expense at all.
 
